@@ -36,22 +36,8 @@ A full-featured **Restaurant POS System** built using the **MERN Stack** to stre
 ---
 <br>
 
-## 📺 **YouTube Playlist**
 
-🎬 Follow the complete tutorial series on building this Restaurant POS System on YouTube:  
-👉 [Watch the Playlist](https://www.youtube.com/playlist?list=PL9OdiypqS7Nk0DHnSNFIi8RgEFJCIWB6X)  
 
-## 📁 **Assets**
-
-- 📦 **Project Assets:** [Google Drive](https://drive.google.com/drive/folders/193N-F1jpzyfPCRCLc9wCyaxjYu2K6PC_)
-
----
-
-## 📋 **Flow Chart for Project Structure**
-
-- 🗺️ **Visualize the Project Structure:** [View Flow Chart](https://app.eraser.io/workspace/IcU1b6EHu9ZyS9JKi0aY?origin=share)
-
----
 
 ## 🎨 **Design Inspiration**
 
@@ -76,8 +62,4 @@ A full-featured **Restaurant POS System** built using the **MERN Stack** to stre
 </table>
 
 
-✨ Feel free to explore, contribute, and enhance the project! 🚀
 
-💡 To contribute, please check out the **CONTRIBUTING.md** for guidelines.
-
-⭐ If you find this project helpful, don't forget to **star** the repository! 🌟
