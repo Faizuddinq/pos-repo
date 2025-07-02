@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { useMutation } from "@tanstack/react-query"
 import { login } from "../../https/index"
 import { enqueueSnackbar } from "notistack";
@@ -84,7 +84,7 @@ const Login = () => {
         </button>
       </form>
 
-      <div className="flex gap-4 m-4 flex flex-col justify-center items-center">
+      <div className="flex gap-4 m-4 flex-col justify-center items-center">
         <p className="text-sm text-[#ababab]">For demo/test purposes, you can use below credentials to login:</p>
         <div className="flex gap-4">
 

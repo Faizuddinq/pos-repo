@@ -5,6 +5,7 @@ import {
   useLocation,
   Navigate,
 } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react"
 import { Home, Auth, Orders, Tables, Menu, Dashboard } from "./pages";
 import Header from "./components/shared/Header";
 import { useSelector } from "react-redux";
@@ -22,6 +23,7 @@ function Layout() {
   return (
     <>
       {!hideHeaderRoutes.includes(location.pathname) && <Header />}
+      <Analytics />
       <Routes>
         <Route
           path="/"
